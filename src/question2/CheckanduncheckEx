@@ -1,0 +1,12 @@
+when the coimpiler force to handle the exception at compile time then 
+it is checked exception .
+eg.SqlException
+   2.IOException
+   3.classnotFoundExcepttion
+   
+  when the compiler not force to handle exception at coimpletime then
+  it unceked exception.
+  eg.
+  ArithimaticException
+  ArrayoutofBoundException.
+  NumberformateException 
